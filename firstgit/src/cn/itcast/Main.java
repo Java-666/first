@@ -10,5 +10,7 @@ public class Main {
         System.out.println("老铁没毛病！");
 
         System.out.println("鲜花刷一刷");
+
+        System.out.println("lalalalal");
     }
 }
